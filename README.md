@@ -6,6 +6,12 @@
 4. Clear button to clear the dashboard.
 5. Supports a board/gallery view that displays a headshot of the player along with their different properties. Players grouped into lists by team name
 
+
+### Images
+
+(./boardview.png)
+
+
 ## Video Demo
 
 https://drive.google.com/file/d/1qn4gB0icMbY7iEmmVDf7ye5g2fmVKT1q/view?usp=sharing
