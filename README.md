@@ -9,7 +9,7 @@
 
 ### Images
 
-(./boardview.png)
+![alt text](./boardview.png)
 
 
 ## Video Demo
