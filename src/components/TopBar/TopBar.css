@@ -1,0 +1,9 @@
+.togg-topbar-appBar img {
+  max-height: 50px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.views {
+  float: right;
+}

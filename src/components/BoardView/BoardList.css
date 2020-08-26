@@ -1,0 +1,25 @@
+.board-list {
+  background-color: white;
+  border-radius: 3px;
+  width: 300px;
+  float: left;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 40px;
+  min-width: 300px;
+  /* display: flex; */
+}
+/* 
+.board-list img {
+  
+} */
+
+.board-list-header {
+  height: 50px;
+}
+
+.board-list-header img {
+  width: 40px;
+  margin-right: 10px;
+  float: right;
+}

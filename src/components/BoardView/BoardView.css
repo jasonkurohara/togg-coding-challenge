@@ -1,0 +1,11 @@
+.main {
+  width: 95%;
+  margin-left: 100px;
+  margin-right: 5px;
+}
+
+.scroll {
+  overflow-x: auto;
+  white-space: nowrap;
+  display: flex;
+}

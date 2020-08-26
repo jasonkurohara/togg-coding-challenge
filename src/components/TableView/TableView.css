@@ -1,0 +1,56 @@
+#players {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+  font-size: small;
+  margin-bottom: 50px;
+}
+
+#players td {
+  text-align: center;
+  /* margin: auto; */
+  vertical-align: middle;
+  /* margin-bottom: 50px; */
+}
+
+#players th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  margin: auto;
+}
+
+#players tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#players tr:hover {
+  background-color: #ddd;
+}
+
+#players th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+
+  background-color: #2980b9;
+  color: white;
+}
+
+#players img {
+  height: 40px;
+  width: 40px;
+  min-width: 40px;
+  max-width: 40px;
+}
+
+h1 {
+  font-size: large;
+}
+
+.main {
+  /* float: left; */
+  width: 100%;
+}
