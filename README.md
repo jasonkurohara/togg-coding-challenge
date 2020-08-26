@@ -11,6 +11,10 @@
 
 ![alt text](./boardview.png)
 
+![alt text](./tableview.png)
+
+![alt text](./addplayer.png)
+
 
 ## Video Demo
 
